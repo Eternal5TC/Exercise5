@@ -1,4 +1,4 @@
-package ITC.exercise5;
+
 
 import java.util.Scanner;
 
