@@ -1,4 +1,3 @@
-package ITC.exercise5;
 
 class Employee{
     String name;
