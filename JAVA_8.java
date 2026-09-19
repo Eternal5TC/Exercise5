@@ -1,4 +1,4 @@
-package ITC.exercise5;
+
 
 class Math {
     void calculateAdd(int a, int b) {
